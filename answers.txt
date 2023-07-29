@@ -1,13 +1,4 @@
-WE ARE SAFE 
-
-![Alt text](https://github.com/samy-soliman/Devops-ITI-collab/blob/main/Git-Icon-1788C.png)
-
-##########################################
-
-Lab Questions ?
-###############
-
-1) remove branches locally ?
+remove branches locally ?
 git branch -d <branch_name>  ->>> remote
 git branch -D <branch_name>  ->>> local
 
@@ -32,5 +23,3 @@ In order to delete a remote Git tag, use the “git push” command with the “
 $ git push origin :refs/tags/<tag>
 
 note that we are the refs syntax because  your tag may have the same name as your branch.
-
-##############################################
