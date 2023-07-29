@@ -13,17 +13,17 @@ git branch -D <branch_name>  ->>> local <br />
 
 ########################################### <br />
 
-Tell me how to checkout another branch without commit changes ? <br />
+2) Tell me how to checkout another branch without commit changes ? <br />
 git switch -f <branch-name> <br />
 
 ############################################ <br />
 
-Tell me how to list tags? <br />
+3) Tell me how to list tags? <br />
 git tag <br />
 
 ############################################
 
-Tell me how to delete tag locally and remotely.<br />
+4) Tell me how to delete tag locally and remotely.<br />
 
 In order to delete a local Git tag, use the “git tag” command with the “-d” option<br />
 $ git tag -d <tag_name><br />
